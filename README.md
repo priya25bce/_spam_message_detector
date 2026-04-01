@@ -13,10 +13,13 @@ https://github.com/user-attachments/assets/3ebdbae7-6917-4012-9142-c6efd40a33b1
 
 https://github.com/user-attachments/assets/1419f929-a038-440d-b41d-8d3f282fc5b1
 
-GUI INTERFACE 
 
 
-https://github.com/user-attachments/assets/c8ece069-9873-4e2f-8f23-c134a0ad3b88
+GUI INTERFACE
+
+https://github.com/user-attachments/assets/de033323-c031-47fe-8d0b-c0f71599afb3
+
+
 
 Overview:-
 
