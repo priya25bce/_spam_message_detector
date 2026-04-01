@@ -1,0 +1,6 @@
+I have used the SMS Spam Collection Dataset which tells my message is spam or not. It is stored in the file named spam.csv.
+It has all the messages that we use for training and testing.
+
+Link :- 
+
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
